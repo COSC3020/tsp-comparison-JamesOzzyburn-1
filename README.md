@@ -27,7 +27,7 @@ to this markdown file.
 ## Answer
 Looked at how to do the table from countmooshroom
 | Input Size | Method | Length Found |Average Time (seconds) |
-| :--------: | ------ | ------------ |
+| :--------: | ------ | ---- | ------------ |
 | 10 | Held-Karp | 100 | 0.02529891 |
 | 10 | Local Search | 326 | 0.00076351 |
 | 11 | Held-Karp | 107 | 0.04702582 |
