@@ -25,6 +25,7 @@ Add the code to run your experiments, graphs, and an explanation of what you did
 to this markdown file.
 
 ## Answer
+Looked at how to do the table from countmooshroom
 | Input Size | Method | Average Time (seconds) |
 | :--------: | ------ | ------------ |
 | 10 | Held-Karp | 0.02529891 |
