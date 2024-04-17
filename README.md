@@ -54,3 +54,6 @@ Looked at how to do the table from countmooshroom
 ## Held Karp vs Local Search Graph
 ### Blue line is Held Karp and the red line is Local Search
 ![Held Karp vs Local Search Graph](https://github.com/COSC3020/tsp-comparison-JamesOzzyburn-1/blob/main/TSP%20Held%20Karp%20vs%20TSP%20Local%20Search.png?raw=true)
+
+### Analysis
+The main difference in the algorithms is that Held Karp will always find the best solution whereas Local Search finds a pretty good solution but not the best. So in terms of usefulness it would really depend on your use case as if all you're looking for is good enough then local search is just fine for what you need. However if you are looking to squeeze out as much as you can then use Held Karp but then you will have to wait a very long time for anything with a good size. The reason that the Held Karp paths are shorter than Local Search is due to Held Karp finding the optimum solution whereas Local Search finds close to it.
