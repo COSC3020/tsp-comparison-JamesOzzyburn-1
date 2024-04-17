@@ -52,5 +52,5 @@ Looked at how to do the table from countmooshroom
 | 20 | Local Search | 0.00073747 |
 
 ## Held Karp vs Local Search Graph
-Blue line is Held Karp and the red line is Local Search (It wouldnt let me add titles for some reason)
+### Blue line is Held Karp and the red line is Local Search
 ![Held Karp vs Local Search Graph](https://github.com/COSC3020/tsp-comparison-JamesOzzyburn-1/blob/main/TSP%20Held%20Karp%20vs%20TSP%20Local%20Search.png?raw=true)
