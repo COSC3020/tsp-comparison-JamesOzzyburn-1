@@ -23,3 +23,29 @@ Local Search found. Why is this?
 
 Add the code to run your experiments, graphs, and an explanation of what you did
 to this markdown file.
+
+## Answer
+| Input Size | Method | Average Time (seconds) |
+| :--------: | ------ | ------------ |
+| 10 | Held-Karp | 0.02529891 |
+| 10 | Local Search | 0.00076351 |
+| 11 | Held-Karp | 0.04702582 |
+| 11 | Local Search | 0.00034759 |
+| 12 | Held-Karp | 0.1035045 |
+| 12 | Local Search | 0.10739804 |
+| 13 | Held-Karp | 0.26647365 |
+| 13 | Local Search | 0.00036646|
+| 14 | Held-Karp | 0.71783076 |
+| 14 | Local Search | 0.00033833 |
+| 15 | Held-Karp | 1.88084158 |
+| 15 | Local Search | 0.00026184 |
+| 16 | Held-Karp | 4.52194415 |
+| 16 | Local Search | 0.00052753 |
+| 17 | Held-Karp | 10.1336665 |
+| 17 | Local Search | 0.00044494 |
+| 18 | Held-Karp | 23.6637384  |
+| 18 | Local Search | 0.00065956 |
+| 19 | Held-Karp | 52.0800634 |
+| 19 | Local Search | 0.00063313 |
+| 20 | Held-Karp | DNF (Ran 6+ Hours) |
+| 20 | Local Search | 0.00073747 |
